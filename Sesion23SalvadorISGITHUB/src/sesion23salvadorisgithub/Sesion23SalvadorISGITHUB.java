@@ -16,6 +16,10 @@ public class Sesion23SalvadorISGITHUB {
      */
     public static void main(String[] args) {
         System.out.println("Prueba de GITHUB 1 SALVADOR");
+        System.out.println("Prueba de GITHUB 2 SALVADOR");
+        System.out.println("Prueba de GITHUB 3 SALVADOR");
+        System.out.println("Prueba de GITHUB 4 SALVADOR");
+        System.out.println("Prueba de GITHUB 5 SALVADOR");
     }
     
 }
